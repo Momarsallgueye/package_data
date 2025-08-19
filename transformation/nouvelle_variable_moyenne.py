@@ -20,7 +20,7 @@ class NouvelleVariableMoyenne:
         Paramètres
         ----------
         df : pd.DataFrame
-            Base de données d'entrée.
+            Base de données d'entrée. val
         colonnes : liste[str] | None
             Sous-ensemble de colonnes sur lesquelles calculer la moyenne.
             Si None, toutes les colonnes numériques sont utilisées.
